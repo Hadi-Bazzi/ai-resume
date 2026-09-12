@@ -6,3 +6,6 @@
 - compares the resume to the role
 - gives a match score and feedback
 
+## 🚀 Live Demo
+
+[Try the AI Resume App](ai-resume-byhadibazzi.streamlit.app)
