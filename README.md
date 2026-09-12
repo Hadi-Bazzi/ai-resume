@@ -8,4 +8,4 @@
 
 ## 🚀 Live Demo
 
-[Try the AI Resume App](ai-resume-byhadibazzi.streamlit.app)
+[Try the AI Resume App](https://ai-resume-byhadibazzi.streamlit.app)
