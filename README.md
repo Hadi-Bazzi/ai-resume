@@ -15,7 +15,13 @@ This project will help you build a simple AI-powered app that:
 5. Create a simple Streamlit interface.
 
 ## Run the app
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+Install the dependencies into the project virtual environment, then launch Streamlit with that same environment:
+
+```powershell
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+.\.venv\Scripts\python.exe -m streamlit run app.py
 ```
+
+Open http://localhost:8501 in your browser if it does not open automatically. Keep the terminal running while you use the app.
+
+You can also double-click `run_app.bat` to start the app with the project environment.
